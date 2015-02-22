@@ -20,7 +20,7 @@ shinyUI(pageWithSidebar(
   mainPanel(
     plotOutput("ggplot_Plot"),
     h3(textOutput("ggplot_command")),
-    p("Need help? Please consult the documentation file:",a("documentation.html",href="documentation.html"))
+    p("Need help? Please consult the documentation file:",a("documentation.html",href="C:/Users/Liebeak/Documents/data develop/DevelopingDataProductsProject/documentation.html"))
   )
 ))
 
