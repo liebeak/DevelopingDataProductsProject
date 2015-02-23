@@ -4,8 +4,8 @@
 
  Coursera [Developing Data Products] course project
  ==============================
--Demo on shinnyapps.io: https://liebeak.shinyapps.io/APPNAME/
-+
+-full App at shinnyapps.io: https://liebeak.shinyapps.io/APPNAME/
++presentation :http://rpubs.com/liebeak/62917
 +This application has been created as a course project  of the Developing Data Products course.
 + 
 + 
